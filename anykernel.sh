@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=QuicksilveR Kernel by imjyotiraditya
+kernel.string=Hydrogen Kernel by NotABot69
 do.devicecheck=1
 do.modules=0
 do.systemless=1
