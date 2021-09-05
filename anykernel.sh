@@ -11,11 +11,11 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=miatoll
-device.name2=
-device.name3=
-device.name4=
-device.name5=
-supported.versions=10.0-11.0
+device.name2=curtana
+device.name3=gram
+device.name4=joyeuse
+device.name5=excalibur
+supported.versions=11.0
 supported.patchlevels=
 '; } # end properties
 
